@@ -5,7 +5,8 @@ CodePractice is a repository in a GitHub used for saving my own examples of Java
 # Quickstart
 
 ### Road Map
-1) My 
+1) My homework is [here](https://github.com/GrKan/CodePractice/tree/Java2).
+2) My certificates is [here](https://github.com/GrKan/CodePractice/tree/certificates).
 
 ### Install
 
